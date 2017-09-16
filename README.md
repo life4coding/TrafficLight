@@ -2,7 +2,7 @@
 A sample project use Apple CoreML &amp; Vision to detect traffic lights
 
 # How to use
-There is no Model in this project, that means you can just download and run, you need to find a model or train one by yourself.
+This project doesn't contain a ML model, that means you can't just download and run, you need to find a model or train one by yourself.
 The One I used for testing is from davidbrai's project [Recognizing Traffic Lights with Deep Learning] (https://github.com/davidbrai/deep-learning-traffic-lights)
 David's Model works great, it's the my first recommendation if you wanna try this code.
 
